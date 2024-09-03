@@ -36,4 +36,4 @@ The software operates in two distinct modes:
     python main.py
 ```
 # 📷 Preview
-![scr](scrnshots\Screenshot 2024-09-04 002918.png)![scr](C:\Users\shira\The-Librarian\scrnshots\Screenshot 2024-09-04 002948.png)![scr](scrnshots/Screenshot 2024-09-04 003032.png)
+![scrn-1](https://github.com/A-R-J-U/The-Librarian/blob/main/scr_1?raw=true)
