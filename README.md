@@ -32,8 +32,10 @@ The software operates in two distinct modes:
     git clone https://github.com/A-R-J-U/The-Librarian.git
 ```
 2.Run the application:
+
 ```bash
     python main.py
 ```
 # 📷 Preview
-![scrn-1](https://github.com/A-R-J-U/The-Librarian/blob/main/scr_1?raw=true)
+![Screenshot 2024-09-04 003032](https://github.com/user-attachments/assets/a8b3945c-c3e9-4263-b981-f97089070f18)![Screenshot 2024-09-04 002948](https://github.com/user-attachments/assets/af64ae0f-2ad8-47ec-baa7-c79df3c887c0)![Screenshot 2024-09-04 002918](https://github.com/user-attachments/assets/14fcef24-3d54-42d4-b347-6e7fda1d3c95)
+
